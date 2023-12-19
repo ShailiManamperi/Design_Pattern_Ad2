@@ -10,3 +10,5 @@ public class Singleton {
         System.out.println(s1==s2);
     }
 }
+
+

@@ -2,6 +2,8 @@ package Creational_Design_Pattern.Factory;
 
 import Creational_Design_Pattern.Factory.ob.Shape;
 
+
+
 public class Factory {
     public static void main(String[] args) {
         Shape_Factory shapeFactory= new Shape_Factory();
